@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import SearchBar from './components/SearchBar/SearchBar';
-import BusinessList from './components/BusinessList/BusinessList';
+import SearchBar from '../SearchBar/SearchBar';
+import BusinessList from '../BusinessList/BusinessList';
 import './App.css';
 
 class App extends Component { // eslint-disable-line
