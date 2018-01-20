@@ -25,7 +25,7 @@ class App extends Component { // eslint-disable-line
   render() {
     return (
       <div className='App'>
-        <h1>ravenous</h1>
+        <h1>Restaurant Search</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses} />
       </div>
