@@ -4,7 +4,7 @@ This is a restaurant search application using React and Yelp API.
 
 ## Demo
 
-http://ossan-engineer.github.io/restaurant-search/index.html
+https://ossan-engineer.github.io/restaurant-search/
 
 ## Getting Started
 
